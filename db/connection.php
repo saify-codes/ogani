@@ -1,8 +1,8 @@
 <?php
 const host = "localhost";
-const username = "root";
-const pass = null;
-const database = "organo";
+const username = "mmkarknbyq";
+const pass = "Dy7SwHHQdD";
+const database = "mmkarknbyq";
 
 $connection = mysqli_connect(host,username,pass,database) or die("unable to stablish connection");
 ?>
